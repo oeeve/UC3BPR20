@@ -352,6 +352,6 @@ adb pull            # Specify /avd/path/to/pull/ /path/to/destination/on/host/pc
 `Until next time...`
 <br>
 
-  <a href="https://github.com/oeeve/UC3BPR20">
+  <a href="https://oddweb.io">
     <img src="media/oddscull_the_engineer.webp" alt="Logo" width="200">
   </a>
