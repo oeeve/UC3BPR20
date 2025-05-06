@@ -41,12 +41,12 @@ A prototype tool, the [SlyFox IoT Sleuth (SFHPCBA01)](https://github.com/oeeve/S
 | Pre Experiment | SHA-256 |
 | ----------- | -------------- |
 | [![Download](https://custom-icon-badges.demolab.com/badge/eMMC-5E5E5E?style=flat&logo=download&logoColor=white)](https://uc3bpr20.oddweb.io/artefacts/homey_pro_emmc/homey_pro_emmc_pre_experiment/HomeyProPre.E01) | `b924fe3259b3109939bee99eb3c28d10a20a8565dc0c3d7e157c55efdf80cfa7` |
-| [![Download](https://custom-icon-badges.demolab.com/badge/Android-5E5E5E?style=flat&logo=download&logoColor=white)](https://github.com/oeeve/UC3BPR20/artefacts/homey_pro_avd_android_application/homey_pro_avd_android_application_pre_experiment.zip) | `fe17674f205c7b0279e7e5fd610c963215cc920e2e276186922f9550f03ddfb5` |
+| [![Download](https://custom-icon-badges.demolab.com/badge/Android-5E5E5E?style=flat&logo=download&logoColor=white)](https://github.com/oeeve/UC3BPR20/raw/refs/heads/main/artefacts/homey_pro_avd_android_application/homey_pro_avd_android_application_pre_experiment.zip) | `fe17674f205c7b0279e7e5fd610c963215cc920e2e276186922f9550f03ddfb5` |
 
 | Post Experiment | SHA-256 |
 | ----------- | -------------- |
 | [![Download](https://custom-icon-badges.demolab.com/badge/eMMC-5E5E5E?style=flat&logo=download&logoColor=white)](https://uc3bpr20.oddweb.io/artefacts/homey_pro_emmc/homey_pro_emmc_post_experiment/HomeyProPost.E01) | `3239ba054101b7f1c75970183aa1f4b4320c51b83f7b804b2a7ad6dc0be05842` |
-| [![Download](https://custom-icon-badges.demolab.com/badge/Android-5E5E5E?style=flat&logo=download&logoColor=white)](https://github.com/oeeve/UC3BPR20/artefacts/homey_pro_avd_android_application/homey_pro_avd_android_application_post_experiment.zip) | `4324b850c6c18393fad46c419323c62c84a9c5395e996862758340e78146031d` |
+| [![Download](https://custom-icon-badges.demolab.com/badge/Android-5E5E5E?style=flat&logo=download&logoColor=white)](https://github.com/oeeve/UC3BPR20/raw/refs/heads/main/artefacts/homey_pro_avd_android_application/homey_pro_avd_android_application_post_experiment.zip) | `4324b850c6c18393fad46c419323c62c84a9c5395e996862758340e78146031d` |
 
 
 
