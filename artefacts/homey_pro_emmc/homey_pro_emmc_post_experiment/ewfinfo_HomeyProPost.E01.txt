@@ -1,0 +1,31 @@
+ewfinfo HomeyProPost.E01 
+
+ewfinfo 20140813
+
+Acquiry information
+        Case number:            01
+        Description:            Homey Pro eMMC post experiment
+        Examiner name:          OEE
+        Evidence number:        02
+        Acquisition date:       Thu May  1 10:01:26 2025
+        System date:            Thu May  1 10:01:26 2025
+        Operating system used:  Linux
+        Software version used:  20140813
+        Password:               N/A
+
+EWF information
+        File format:            EnCase 6
+        Sectors per chunk:      64
+        Error granularity:      64
+        Compression method:     deflate
+        Compression level:      best compression
+
+Media information
+        Media type:             fixed disk
+        Is physical:            yes
+        Bytes per sector:       512
+        Number of sectors:      15269888
+        Media size:             7.2 GiB (7818182656 bytes)
+
+Digest hash information
+        MD5:                    20a9b89e05b5e657c04731d0498af87d

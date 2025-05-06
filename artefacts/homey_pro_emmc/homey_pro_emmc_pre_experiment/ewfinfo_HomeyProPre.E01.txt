@@ -1,0 +1,32 @@
+ewfinfo HomeyProPre.E01 
+
+ewfinfo 20140813
+
+Acquiry information
+        Case number:            UC3BPR20
+        Description:            Homey Pro eMMC pre experiment
+        Examiner name:          OEE
+        Evidence number:        01
+        Notes:                  Homey Pro Pre-Experiment Acquisition
+        Acquisition date:       Sun Apr 20 11:28:23 2025
+        System date:            Sun Apr 20 11:28:23 2025
+        Operating system used:  Linux
+        Software version used:  20140813
+        Password:               N/A
+
+EWF information
+        File format:            EnCase 6
+        Sectors per chunk:      64
+        Error granularity:      64
+        Compression method:     deflate
+        Compression level:      best compression
+
+Media information
+        Media type:             fixed disk
+        Is physical:            yes
+        Bytes per sector:       512
+        Number of sectors:      15269888
+        Media size:             7.2 GiB (7818182656 bytes)
+
+Digest hash information
+        MD5:                    15c6dc5e6163142d852ab96f178ea555
