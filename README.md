@@ -123,7 +123,7 @@ The following artefacts of forensic value has been identified. Can you find more
 **BOOTA / BOOTB**
 | Location | Significance |
 | -------- | ------------ |
-| `/tryboot.txt` | Configuration file for UART's + a message from the Homey developers. |
+| `/tryboot.txt` | Configuration file for UART's and selected system settings. + a message from the Homey developers. |
 
 
 **ROOTA**
