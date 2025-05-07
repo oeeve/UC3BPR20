@@ -41,14 +41,12 @@ A prototype tool, the [SlyFox IoT Sleuth (SFHPCBA01)](https://github.com/oeeve/S
 | Pre Experiment  | SHA-256 |
 | ----------- | -------------- |
 | [![Download](https://custom-icon-badges.demolab.com/badge/eMMC:-HomeyProPre.E01-B5DAC0?style=flat&logo=download&logoColor=white)](https://uc3bpr20.oddweb.io/artefacts/homey_pro_emmc/homey_pro_emmc_pre_experiment/HomeyProPre.E01) | `b924fe3259b3109939bee99eb3c28d10a20a8565dc0c3d7e157c55efdf80cfa7` |
-| [![Download](https://custom-icon-badges.demolab.com/badge/AVD:-AndroidPreExp.zip-B5DAC0?style=flat&logo=download&logoColor=white)](https://github.com/oeeve/UC3BPR20/raw/refs/heads/main/artefacts/homey_pro_avd_android_application/homey_pro_avd_android_application_pre_experiment.zip) | `0e5482254374c13ffd9379eb29e2fe74efe096aaf82156231b1a4b43b5073602` |
+| [![Download](https://custom-icon-badges.demolab.com/badge/AVD:-AndroidPreExp.zip-B5DAC0?style=flat&logo=download&logoColor=white)](https://github.com/oeeve/UC3BPR20/raw/refs/heads/main/artefacts/homey_pro_avd_android_application/AndroidPreExp.zip) | `0e5482254374c13ffd9379eb29e2fe74efe096aaf82156231b1a4b43b5073602` |
 
 | Post Experiment | SHA-256 |
 | ----------- | -------------- |
 | [![Download](https://custom-icon-badges.demolab.com/badge/eMMC:-HomeyProPost.E01-B5DAC0?style=flat&logo=download&logoColor=white)](https://uc3bpr20.oddweb.io/artefacts/homey_pro_emmc/homey_pro_emmc_post_experiment/HomeyProPost.E01) | `3239ba054101b7f1c75970183aa1f4b4320c51b83f7b804b2a7ad6dc0be05842` |
-| [![Download](https://custom-icon-badges.demolab.com/badge/AVD:-AndroidPostExp.zip-B5DAC0?style=flat&logo=download&logoColor=white)](https://github.com/oeeve/UC3BPR20/raw/refs/heads/main/artefacts/homey_pro_avd_android_application/homey_pro_avd_android_application_post_experiment.zip) | `84f85f3b49a750587363b91e2a07ecb4e709ad730439a56638bde2fb7991c253` |
-
-
+| [![Download](https://custom-icon-badges.demolab.com/badge/AVD:-AndroidPostExp.zip-B5DAC0?style=flat&logo=download&logoColor=white)](https://github.com/oeeve/UC3BPR20/raw/refs/heads/main/artefacts/homey_pro_avd_android_application/AndroidPostExp.zip) | `84f85f3b49a750587363b91e2a07ecb4e709ad730439a56638bde2fb7991c253` |
 
 
 #### Suggested Use
