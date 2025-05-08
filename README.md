@@ -2,7 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/oeeve/UC3BPR20">
-    <img src="media/fox_emmc.webp" alt="Logo" width="400">
+    <img src="media/fox_emmc.webp" alt="Logo" width="400"> </a> <br>
+    <a href="https://doi.org/10.5281/zenodo.15364524"><img src="https://zenodo.org/badge/893626837.svg" alt="DOI">
   </a>
 <br><br>
   <p align="center">
